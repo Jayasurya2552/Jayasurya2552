@@ -4,7 +4,7 @@ I am Jayasurya upcoming software engineer.Seeking a role to share my interest an
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-[![Linkedin Badge](https://img.shields.io/badge/-jayasurya-s-70a357242-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayasurya-s-70a357242/)](https://www.linkedin.com/in/jayasurya-s-70a357242/)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/jayasurya-s-70a357242/)
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)(https://www.hackerrank.com/dashboard)
 [![Gmail Badge](https://img.shields.io/badge/-jsurya2552000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jsurya2552000@gmail.com)](mailto:jsurya2552000@gmail.com)
 ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)(https://auth.geeksforgeeks.org/user/suryaasjay400q/)
