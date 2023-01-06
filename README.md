@@ -16,18 +16,13 @@ I am Jayasurya upcoming software engineer.Seeking a role to share my interest an
 ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)(https://auth.geeksforgeeks.org/user/suryaasjay400q/)
 
 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)(https://portal.azure.com/?quickstart=true#home)
-
-
 
 ## ⚡ Technologies
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
 ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Jayasurya2552&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayasurya2552&hide=TeX&layout=compact)
